@@ -1,5 +1,6 @@
 from autoscraper import AutoScraper
 
+
 url = 'https://finance.yahoo.com/quote/AAPL/'
 
 wanted_list = ["124.81"]
